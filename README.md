@@ -9,5 +9,9 @@ Planned Work:
     Accidents number forecasting for 2019
     Accidents number forecasting for 2018 to check that it matches with reality
     Accidents with fatalities analysis (TBD)
+    
+Accidents location in switzerland between 2011 and 2018:
 ![Accidents location 2011 - 2018](accidents_location_1024.png)
-![Accidents seasonaity](accidents_seasonality.png)
+
+Accidents with fatalities seasonality and forecasting
+![Fatal accidents seasonaity](fatal_seasonality.png)
