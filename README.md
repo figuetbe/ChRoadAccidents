@@ -13,5 +13,5 @@ Planned Work:
 Accidents location in switzerland between 2011 and 2018:
 ![Accidents location 2011 - 2018](accidents_location_1024.png)
 
-Accidents with fatalities seasonality and forecasting
+Accidents with fatalities seasonality and forecasting [Number of accidents with fatalities per day]
 ![Fatal accidents seasonaity](fatalities_forecast.png)
